@@ -25,7 +25,7 @@ When  the  second  roll  of  the  third  frame  comes  in,  all  three  frames
 should be returned, e.g. [4, 5, "X", 8, 1] would return [9, 19,  9]. (Note that these are 
 the scores for the frames, not the running score).
 
-## Setup
+## Checking Solution
 This repo contains my solution for the given task. The solution includes corresponding `rspec` tests. 
 To run the tests and check the solution after cloning, you can run:
 ```
