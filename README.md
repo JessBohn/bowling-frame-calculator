@@ -1,4 +1,4 @@
-WeInfuse Coding Exercise 
+Coding Exercise 
  
 Situation: 
 The group has been asked to develop software to score bowling games. 
